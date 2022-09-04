@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-##General information
+## General information
 
 This simple project is completely based on python programming language.
 I used a simple algorithm known as Breadth First Search or BFS for finding the shortest path.
